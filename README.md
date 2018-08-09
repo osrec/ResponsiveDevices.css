@@ -22,7 +22,7 @@ You just need to worry about setting the correct aspect ratio for your content, 
 All devices are available in black and white skins, except the iMac :)
 
 ## Demos + Documentation
-Demo: https://osrec.github.io/ResponsiveDevices.css/samples.html
+Demo: https://osrec.github.io/ResponsiveDevices.css/samples.html - like what you see? Give us a :star: !
 
 For your convenience, device markup is available at: https://osrec.co.uk/products/responsivedevicescss (click any device in the **device library** section to view it's corresponding HTML markup)
 
