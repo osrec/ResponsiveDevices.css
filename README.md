@@ -38,4 +38,4 @@ Raise a ticket on github and we will respond ASAP.
 
 ## License
 
-Free for personal/non-commercial use. Small fee applies for commercial use to help support the library.
+Free for personal/non-commercial use. Small fee applies for commercial use to help support the library (see https://osrec.co.uk/products/responsivedevicescss)
