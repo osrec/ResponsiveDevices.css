@@ -22,15 +22,15 @@ You just need to worry about setting the correct aspect ratio for your content, 
 All devices are available in black and white skins, except the iMac :)
 
 ## Demos + Documentation
-Sample Device Markup is available at: https://osrec.co.uk/products/responsivedevicescss (click any device in the **device library** section to view it's corresponding HTML markup)
+Demo: https://osrec.github.io/ResponsiveDevices.css/samples.html
 
-Device samples can also be viewed at: https://osrec.github.io/ResponsiveDevices.css/samples.html
+For your convenience, device markup is available at: https://osrec.co.uk/products/responsivedevicescss (click any device in the **device library** section to view it's corresponding HTML markup)
 
 ## Credits
 
-Created by OSREC Technologies (https://osrec.co.uk) - give us a shout for help or any consulting enquiries at https://osrec.co.uk/contact :smile:
+Created by OSREC Technologies (https://osrec.co.uk) - give us a shout for any consulting enquiries at https://osrec.co.uk/contact :smile:
 
-Dev time funded by Bx (https://usebx.com) - check them out if you need a slick business/project management/time tracking app :dollar: :watch: :thumbsup:
+Funded by the Bx project (https://usebx.com) - check them out if you need a slick, free business/project management/time tracking app :dollar: :watch: :thumbsup:
 
 ## License
 
