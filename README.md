@@ -24,7 +24,7 @@
 
 It's rather annoying to have badly scaled CSS devices on your landing/demo page. Often they'll not quite fit your screenshots properly, and may resize badly on certain devices, resulting in annoying overflow (scroll) here or there.
 
-responsiveDevices.css fixes that by giving you simple, componentised CSS classes to 'build' your own neatly scaled devices. All the classes are responsive and you can add or remove features (such as speakers or screen reflections) as you please.
+ResponsiveDevices.css fixes that by giving you simple, componentised CSS classes to 'build' your own neatly scaled devices. All the classes are responsive and you can add or remove features (such as speakers or screen reflections) as you please.
 
 ## Devices
 
