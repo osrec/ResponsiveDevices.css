@@ -21,6 +21,28 @@ You just need to worry about setting the correct aspect ratio for your content, 
 
 All devices are available in black and white skins, except the iMac :)
 
+## Example: White iPhone
+
+Simply include the appropraite css files (for an iPhone you need `common.css` and `iphone.css`). Then add the following markup and you're done!
+
+```html
+
+<div class='deviceContainer' style='width: 50%; max-width: 500px;'>
+    <div class="iphone white portrait">
+        <div class="caseBorder"></div>
+        <div class="case"></div>
+        <div class="reflection"></div>
+        <div class="screen"></div>
+        <div class="camera"></div>
+        <div class="speaker"></div>
+        <div class="homeButtonBorder"></div>
+        <div class="homeButton"></div>
+        <div class="content" style=""></div>
+    </div>              
+</div>
+```
+Scale the width of the containing `div` as per your requirements. Also, feel free to add or remove device features (simply add or remove the inner most `div` elements). Ordering of the inner `div` elements does not matter.
+
 ## Demos + Documentation
 Demo: https://osrec.github.io/ResponsiveDevices.css/samples.html - like what you see? Give us a :star: !
 
